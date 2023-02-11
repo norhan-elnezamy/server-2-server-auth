@@ -1,6 +1,6 @@
 # Private connection signature.
 
-This package allows you to easily secure your private connection between servers by creating a signature and validating user signature by using a shared private hashing key and algorithm type.
+This a laravel package that allows you to easily secure your private connection between servers by creating a signature and validating user signature by using a shared private hashing key and algorithm type.
 
 ## Installation
 
