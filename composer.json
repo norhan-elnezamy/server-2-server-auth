@@ -1,0 +1,16 @@
+{
+    "name": "auth/signed-request",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Auth\\SignedRequest\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Auth\\SignedRequest\\SignedRequestServiceProvider"
+            ]
+        }
+    }
+}
